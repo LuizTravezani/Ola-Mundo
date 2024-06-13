@@ -1,4 +1,4 @@
 # Olá, Mundo
- Primeiro repositóriodo curso de Git e GitHub
+Criando o primeiro repositório do curso Git e GitHib
 
-Aprendendo a criar um repositório.
+Aprendendo a como criar um repositório.
